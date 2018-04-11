@@ -1,2 +1,2 @@
 # GooglePage
-https://ccsandiego.github.io/GooglePage/
+https://ccsandiego.github.io/GooglePage/GooglePage.html
